@@ -1,3 +1,4 @@
+git status
 git pull 
 $_guid = New-Guid
 git add .
